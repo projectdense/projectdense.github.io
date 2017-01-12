@@ -2,7 +2,7 @@
 layout: default
 ---
 
-![yo]({{ site.url }}/assets/logo.bmp){:height="200px"}
+![yo](assets/logo.png){:height="150px"}
 
 Distributed air quality monitoring for urban environments.
 
