@@ -42,7 +42,7 @@ Distributed air quality monitoring for urban environments.
 </tr>
 
 <tr>
-<td><img src="assets/trump.jpg"></td>
-<td><p>It's not because things are difficult that we dare not venture. It's because we dare not venture that they are difficult.</p></td>
+<td><img src="assets/antonys_face.jpg"></td>
+<td><p>Antony is a Mechatronics engineer tha spcializes in electrical hardware design. He will focus on sensor integration and PCB development, as well as assist with mechnical design tasks.p></td>
 </tr>
 </table>
