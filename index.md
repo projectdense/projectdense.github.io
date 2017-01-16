@@ -51,8 +51,8 @@ The DENSE team aims to develop a scalable, self-sustaining, low cost device for 
 </tr>
 
 <tr>
-<td><img src="assets/trump.jpg"></td>
-<td><p>It's not because things are difficult that we dare not venture. It's because we dare not venture that they are difficult.</p></td>
+<td><img src="assets/adam.jpg"></td>
+<td><b>Adam</b> is studying Mechatronics Engineering at the University of Waterloo. His contributions to the project include hardware and software design. </td>
 </tr>
 
 <tr>
