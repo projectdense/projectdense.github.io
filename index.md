@@ -4,7 +4,7 @@ layout: default
 
 ![yo](assets/logo.png){:height="150px"}
 
-Distributed air quality monitoring for urban environments.
+In the wake of rapid urbanization, a growing focus by municipalities is on addressing urban air quality, a huge factor in civilian health and quality of life. Unfortunately, researchers currently rely on a handful of permanent monitoring stations, coupled with developing complex models, in order to understand air quality variability in a city.  The DENSE team aims to develop a scalable, self-sustaining, low cost device for monitoring of gas and dust based pollutants, which can be quickly deployed in large urban environments.
 
 ##### Team
 
@@ -43,6 +43,6 @@ Distributed air quality monitoring for urban environments.
 
 <tr>
 <td><img src="assets/antonys_face.jpg"></td>
-<td><p>Antony is a Mechatronics engineer tha spcializes in electrical hardware design. He will focus on sensor integration and PCB development, as well as assist with mechnical design tasks.p></td>
+<td><p>Antony is a Mechatronics engineer tha spcializes in electrical hardware design. He will focus on sensor integration and PCB development, as well as assist with mechnical design tasks.<p></td>
 </tr>
 </table>
