@@ -2,8 +2,8 @@
 title:       Dense
 description: "Air quality monitoring for urban environments"
 date_format: "%b %-d, %Y"
-baseurl: "/dense"
-url: "https://evgorchakov.github.io"
+baseurl: ""
+url: "https://projectdense.github.io"
 
 # Google services
 google_verification:
