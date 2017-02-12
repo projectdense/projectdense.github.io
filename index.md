@@ -36,6 +36,6 @@ The DENSE team aims to develop a scalable, self-sustaining, low cost device for 
 <div style="clear: left;">
 <p style="float: left;"><img src="{{ site.baseurl }}/assets/antonys_face.jpg" width="200px" style="padding-right:30px;"></p>
 <p style="padding-top: 10px;">
-<b>Antony</b> is a Mechatronics engineer that specializes in electrical hardware design. He will focus on sensor integration and PCB development, as well as assist with mechnical design tasks.
+<b>Antony</b> is a Mechatronics engineer that specializes in electrical hardware design. He will focus on sensor integration and PCB development, as well as assist with mechanical design tasks.
 </p>
 </div>
